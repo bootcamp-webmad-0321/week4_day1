@@ -1,0 +1,15 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "First NPM project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Germán & Popino el tigre de bengala",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "faker": "^5.5.3"
+  }
+}
